@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iamcosmo
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning WebDev
 - 💞️ I’m looking to collaborate on 
 - 
 
