@@ -11,10 +11,6 @@
 
 - 🌱 I’m currently learning **MERN, AWS, CLOUD COMPUTING**
 
-- 👯 I’m looking to collaborate on [BookMySpace](https://github.com/iamcosmo/BookMySpace)
-
-- 🤝 I’m looking for help with [BookMySpace](https://github.com/iamcosmo/BookMySpace)
-
 - 👨‍💻 All of my projects are available at [https://github.com/iamcosmo?tab=repositories](https://github.com/iamcosmo?tab=repositories)
 
 - 💬 Ask me about **react, expressjs, mongodb, nodejs**
